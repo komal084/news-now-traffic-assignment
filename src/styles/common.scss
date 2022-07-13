@@ -1,0 +1,30 @@
+@import '@/styles/icons.scss';
+
+.align-items {
+  display: flex;
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-space-bewteen {
+  justify-content: space-between;
+}
+
+.justify-flex-end {
+  justify-content: flex-end;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.special-text {
+  color: $primary-color;
+}
+
+.warning-text {
+  color: $error-color;
+}
