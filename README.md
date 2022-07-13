@@ -30,8 +30,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ###
+# Configuration
 Node version: 14.0.0
 NPM version: 6.14.4
+
+### GitHub repo
+URL: `https://github.com/komal084/news-now-traffic-assignment/tree/master`
+Branch: `master`
 
 
 ###
